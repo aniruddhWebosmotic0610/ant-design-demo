@@ -1,0 +1,50 @@
+.trigger {
+    font-size: 18px;
+    line-height: 64px;
+    padding: 0 24px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+// .trigger:hover {
+//     color: #1890ff;
+// }
+
+.logo {
+    height: 32px;
+    // background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+}
+.setting-btn {
+    top: 40vh;
+    position: absolute;
+    // z-index: 9999;
+}
+.light_header {
+    background: #fff !important;
+    color: #001529;
+}
+.dark_header {
+    background: #001529 !important;
+    color: #fff;
+}
+.light_content {
+    background: #f0f0f0 !important;
+}
+.dark_content {
+    background: #1f1f1f !important;
+}
+.ant-btn-icon-only {
+    padding: 0 !important;
+}
+// .ant-menu-submenu-popup > .ant-menu {
+//     background-color: #000 !important;
+//     color: white !important;
+// }
+// .ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+//     background-color: #1890ff !important;
+//     color: white !important;
+// }
+.ant-btn {
+    line-height: 0 !important;
+}
